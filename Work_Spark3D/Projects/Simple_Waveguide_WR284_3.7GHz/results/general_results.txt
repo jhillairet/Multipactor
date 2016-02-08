@@ -1,0 +1,2 @@
+#Region_num	Region_name	Signal_num	Signal_name_(Hz)	Minimum_breakdown_power_(W)
+1	circuit	1	3.7e+09
