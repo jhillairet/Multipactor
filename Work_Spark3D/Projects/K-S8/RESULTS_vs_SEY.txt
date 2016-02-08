@@ -1,0 +1,4 @@
+"../../SEY/K-S8_Courbe_SEY_REF_modif_Ec1_19eV.csv" 298.822
+"../../SEY/K-S8_Courbe_SEY_REF_modif_Ec1_19eV.csv" 322.26
+"../../SEY/K-S8_Courbe_SEY_REF_modif_Ec1_19eV.csv" 310.541
+"../../SEY/K-S8_Courbe_SEY_REF_modif_Ec1_30eV.csv" 378.886
